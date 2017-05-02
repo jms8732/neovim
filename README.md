@@ -26,7 +26,7 @@ for more information.
 
 [![Throughput Graph](https://graphs.waffle.io/neovim/neovim/throughput.svg)](https://waffle.io/neovim/neovim/metrics)
 
-Install from source
+실행소스
 -------------------
 
     make CMAKE_BUILD_TYPE=RelWithDebInfo
